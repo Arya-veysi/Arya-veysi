@@ -1,29 +1,61 @@
-<h1 align="center">Hi 👋, I'm Arya H. Veysi</h1>
-<h3 align="center">A passionate backend developer from Iran</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arya-veysi&label=Profile%20views&color=0e75b6&style=flat" alt="arya-veysi" /> </p>
+###
 
-- 🔭 I’m currently working on **Note tanking system**
+<p align="left">👋 Hi, I'm Arya Hame Veysi, a self-taught web developer passionate about building modern and efficient web applications. I'm currently learning Node.js and Express.js, constantly expanding my knowledge in backend development.<br><br>💡 I enjoy solving problems, optimizing code, and creating seamless user experiences.</p>
 
-- 🌱 I’m currently learning **Express.js & Node js**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arya h. veysi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arya h. veysi" height="30" width="40" /></a>
-</p>
+<h2 align="left">About me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-## 🛠 Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+###
 
+<p align="left">✨ Creating bugs since I wrote my first calculator program.<br>📚 I'm currently learning Node.js and Express.js to improve my backend skills.<br>🎯 Goal: Build AI-powered productivity tools, like a Notion-style timeline manager with smart automation.<br>🎲 Fun fact: I love making things "smarter," even if it means breaking them a few times first!</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arya-veysi&show_icons=true&locale=en&layout=compact" alt="arya-veysi" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arya-veysi&show_icons=true&locale=en" alt="arya-veysi" /></p>
+<h2 align="left">Tech Stack (Languages & Tools)</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h2 align="left">Goals & What I'm Learning</h2>
+
+###
+
+<p align="left">📚 Currently Learning:<br>I'm diving deeper into Node.js and Express.js to build efficient and scalable backend applications. I'm also exploring databases and API development to enhance my backend skills.<br><br>🚀 Current Goal:<br>My focus is on developing AI-powered productivity tools, such as a Notion-style timeline manager with smart automation and AI assistance. I aim to integrate machine learning and natural language processing (NLP) into task management for a more intuitive user experience.<br><br>🔍 Next Steps:<br><br>Learn more about AI integrations in web applications<br><br>Improve my knowledge of databases (SQL & NoSQL)<br><br>Explore TypeScript for better scalability</p>
+
+###
+
+<h2 align="left">How to Reach Me (Contact & Socials)</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/arya-veysi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAC/csharp-cat-programmer.gif"  />
+</div>
+
+###
