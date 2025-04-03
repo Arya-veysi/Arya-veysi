@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Arya Veysi, a self-taught web developer passionate about building modern and efficient web applications. I'm currently learning Node.js and Express.js, constantly expanding my knowledge in backend development.<br><br>💡 I enjoy solving problems, optimizing code, and creating seamless user experiences.</p>
+<p align="left">👋 Hi, I'm Arya Hame Veysi, a self-taught web developer passionate about building modern and efficient web applications. I'm currently learning Node.js and Express.js, constantly expanding my knowledge in backend development.<br><br>💡 I enjoy solving problems, optimizing code, and creating seamless user experiences.</p>
 
 ###
 
@@ -49,6 +49,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/arya-veysi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@arya.h.veysi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
 
