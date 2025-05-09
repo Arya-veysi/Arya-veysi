@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Arya Hame Veysi, a self-taught web developer passionate about building modern and efficient web applications. I'm currently learning Node.js and Express.js to improve my backend skills. 💡 I enjoy solving problems, optimizing code, and creating seamless user experiences.</p>
+<p align="left">👋 Hi, I'm Arya Veysi, a self-taught web developer passionate about building modern and efficient web applications. I'm currently learning Node.js and Express.js to improve my backend skills. 💡 I enjoy solving problems, optimizing code, and creating seamless user experiences.</p>
 
 ###
 
