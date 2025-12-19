@@ -46,7 +46,7 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-veysi&show_icons=true&theme=oneDark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-veysi&show_icons=true&theme=onedark)
 
 ###
 
