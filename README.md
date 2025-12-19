@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Just a normal guy who likes to design and build things.  <br>💻 Interested in computers, the web, and how things work behind the scenes.  <br>✨ I like the process of design, build, fail, and try again — it keeps things real.  <br>🎯 My projects tell the story better than words, so feel free to check them out.</p>
+<p align="center">👋 Just a normal guy who likes to design and build things.  <br>💻 Interested in computers, the web, and how things work behind the scenes.  <br>✨ I like the process of design, build, fail, and try again — it keeps things real.  <br>🎯 My projects tell the story better than words, so feel free to check them out.</p>
 
 ###
 
@@ -54,8 +54,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arya-veysi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arya-veysi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Arya-veysi&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arya-veysi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
 </div>
 
 ###
