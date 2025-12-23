@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="center">TECH STACKS</h3>
+<h3 align="center">TECH STACK</h3>
 
 ###
 
