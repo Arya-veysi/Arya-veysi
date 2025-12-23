@@ -38,22 +38,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arya-veysi/Arya-veysi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arya-veysi/Arya-veysi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arya-veysi/Arya-veysi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-veysi&show_icons=true&theme=onedark&custom_title=Github%20Stats)
-  
-</div>
-
-
-###
-
 <h3 align="center">Be in Contact</h3>
 
 ###
@@ -67,7 +51,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/Arya-veysi?tab=repositories" ><img height="250" src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg"/> <a/>
+  <img height="250" src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg"  />
 </div>
 
 ###
