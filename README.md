@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">Can Work With</h2>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
