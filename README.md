@@ -1,6 +1,6 @@
 <p align="center">The further a society drifts from truth, the more it will hate those who speak it. — George Orwell</p>
 
-###
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
