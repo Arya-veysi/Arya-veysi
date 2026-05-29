@@ -1,20 +1,8 @@
-<h1 align="center">OusArya’s here</h1>
+<p align="center">The further a society drifts from truth, the more it will hate those who speak it. — George Orwell</p>
 
 ###
 
-<p align="center">Junior Backend Developer | Software Development Student</p>
-
-###
-
-<h3 align="center">ABOUT ME</h3>
-
-###
-
-<p align="center">👋 Just a normal guy who likes to design and build things.  <br>💻 Interested in computers, the web, and how things work behind the scenes.  <br>✨ I like the process of design, build, fail, and try again — it keeps things real.  <br>🎯 My projects tell the story better than words, so feel free to check them out.</p>
-
-###
-
-<h3 align="center">TECH STACK</h3>
+<h2 align="left">Knows</h2>
 
 ###
 
@@ -23,29 +11,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"  />
-</div>
-
-###
-
-<h3 align="center">Be in Contact</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arya-veysi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
@@ -53,5 +31,3 @@
 <div align="center">
   <a href="https://github.com/Arya-veysi?tab=repositories"> <img height="250" src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg"  /></a>
 </div>
-
-###
